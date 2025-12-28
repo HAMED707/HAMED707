@@ -52,7 +52,10 @@ Expected Graduation: July 2026
 
 ## 🏆 Certifications
 
-[![Azure Certification](./images/azure-badge.png)](https://www.credly.com/badges/918ab635-6899-4ce1-9041-dba1036448b0)
+<div align="center">
+<a href="https://www.credly.com/badges/918ab635-6899-4ce1-9041-dba1036448b0">
+  <img src="./images/azure-badge.png" alt="Azure Certification" width="150"/>
+</a>
 
 ## 🤝 Connect with Me
 
