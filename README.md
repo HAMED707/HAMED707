@@ -41,8 +41,3 @@ I'm a passionate **Computer Science student** specializing in **backend and full
   <img src="./images/azure-badge.png" alt="Azure Certification" width="120"/>
 </a>
 
-
-
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=HAMED707&color=blueviolet&style=flat-square)
-</div>
