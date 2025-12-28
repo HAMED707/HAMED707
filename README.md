@@ -38,6 +38,6 @@ I'm a passionate **Computer Science student** specializing in **backend and full
 
 <div align="center">
 <a href="https://www.credly.com/badges/918ab635-6899-4ce1-9041-dba1036448b0">
-  <img src="./images/azure-badge.png" alt="Azure Certification" width="120"/>
+  <img src="./images/azure-badge.png" alt="Azure Certification" width="100"/>
 </a>
 
