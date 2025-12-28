@@ -42,31 +42,6 @@ I'm a passionate **Computer Science student** specializing in **backend and full
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## 💻 Featured Projects
-
-### 🏠 Accommodation Finder Platform (In Progress)
-Backend system for helping expat students find rental apartments
-- **Tech Stack:** Django, PostgreSQL, REST APIs
-- **Features:** User authentication, apartment search & filtering, role-based access control
-- **Role:** Backend Developer
-
-### 🛒 Full-Stack E-Commerce Website
-Complete online store with modern UI and robust backend
-- **Tech Stack:** React, Django/Flask, PostgreSQL
-- **Features:** Product management, user authentication, order tracking
-- **Highlights:** RESTful API design, responsive frontend
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAMED707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMED707&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAMED707&theme=tokyonight&hide_border=true)
-  
-</div>
 
 ## 🎓 Education
 
@@ -77,7 +52,7 @@ Expected Graduation: July 2026
 
 ## 🏆 Certifications
 
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/)
+[![Azure Certification](./images/azure-badge.png)](https://www.credly.com/badges/918ab635-6899-4ce1-9041-dba1036448b0)
 
 ## 🤝 Connect with Me
 
